@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg, #AA4BF2, #6A2BC2) fixed;
+  background-color: #6A2BC2;
+}
