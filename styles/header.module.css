@@ -1,0 +1,22 @@
+.navigation {
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 100%;
+  padding: 0;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: right;
+  backdrop-filter: blur(5px);
+  border-bottom: 0.2em solid #6A2BC2;
+}
+
+.navigation a:last-child img {
+  margin-right: 0.6em;
+}
+
+.image {
+  width: 2em;
+  height: 2em;
+  margin: 0.5em 0.3em;
+  padding: 0;
+}
