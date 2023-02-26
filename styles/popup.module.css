@@ -1,0 +1,53 @@
+.background {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.popup {
+  font-family: 'Merriweather', serif;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  box-shadow: 0 0.5em 0.75em 0.25em #111111;
+  padding: 1em;
+}
+
+.title {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+.text {
+  margin: 0.75em 0;
+}
+
+.button-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.25em;
+}
+
+.button {
+  font-family: 'Merriweather', serif;
+  cursor: pointer;
+  border: solid 0.1em;
+  border-radius: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.confirm {
+  background-color: #51DB2E;
+}
+
+.cancel {
+  background-color: #DB2418;
+}
