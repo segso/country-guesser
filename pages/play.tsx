@@ -64,7 +64,7 @@ export default function HomePage({
             <p>{country.name.official}</p>
             <p>{country.capital}</p>
           </>) : (
-            <img src={`/flags/${country.svg}`}/>
+            <img src={`/country-guesser/flags/${country.svg}`}/>
           )}
         </div>
 

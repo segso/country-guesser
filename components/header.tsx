@@ -10,7 +10,7 @@ export default function Header({
   home?: boolean,
   score?: number
 }) {
-  const homeImage = <img src="/icons/home.svg" alt="Home" className={styles.image} />;
+  const homeImage = <img src="/country-guesser/icons/home.svg" alt="Home" className={styles.image} />;
   const [isPopupVisible, setIsPopupVisible] = useState(false);
   const router = useRouter();
 
@@ -31,7 +31,7 @@ export default function Header({
           <p className={styles.score}>Score: {score.toLocaleString()}</p>
         )}
         <a href="https://github.com/seg-mx/country-guesser">
-          <img src="/icons/github.svg" alt="GitHub" className={styles.image} />
+          <img src="/country-guesser/icons/github.svg" alt="GitHub" className={styles.image} />
         </a>
         {home ? (
           <a>{homeImage}</a>
