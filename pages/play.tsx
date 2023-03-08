@@ -2,6 +2,7 @@ import Layout from "@/components/layout";
 import QuestionInput from "@/components/question-input";
 import {getCountriesJSON, CountryJSON} from "@/lib/countries";
 import {FormEvent, useEffect, useState} from "react";
+import styles from "@/styles/play.module.css";
 
 export async function getStaticProps() {
   const countriesJSON = getCountriesJSON();
@@ -54,11 +55,11 @@ export default function HomePage({
   return (
     <Layout score={score}>
       {(!country && index != -1) && (
-        <p>Game finished!</p>
+        <p className={styles["finish-text"]}>Game finished!</p>
       )}
 
       {country && (<>
-        <div>
+        <div className={styles.display}>
           {showResult ? (<>
             <p>{country.name.official}</p>
             <p>{country.capital}</p>
@@ -67,7 +68,7 @@ export default function HomePage({
           )}
         </div>
 
-        <form onSubmit={onSubmit}>
+        <form onSubmit={onSubmit} className={styles.form}>
           <QuestionInput
             placeholder="Country name"
             answers={[country.name.common, country.name.official]}
@@ -84,7 +85,7 @@ export default function HomePage({
             addScore={addScore}
           />
 
-          <button>Send</button>
+          <button className={styles["send-button"]}>Send</button>
         </form>
       </>)}
     </Layout>

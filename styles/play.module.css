@@ -1,0 +1,41 @@
+.finish-text {
+  font-family: 'Merriweather', serif;
+  font-size: 2em;
+  text-align: center;
+}
+
+.display > img {
+  width: 15em;
+  display: block;
+  margin: 2em auto;
+  border: 0.2em solid #34155F;
+  border-radius: 0.5em;
+}
+
+.display > p {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+.display > p:first-child {
+  font-size: 1.5em;
+}
+
+.form input {
+  font-family: 'Merriweather', serif;
+  display: block;
+  margin: 0.5em auto;
+  width: 17em;
+  height: 1.5em;
+}
+
+.send-button {
+  font-family: 'Merriweather', serif;
+  display: block;
+  margin: 0 auto;
+  width: 17em;
+  height: 2.5em;
+  border: solid 0.1em;
+  border-radius: 0.5em;
+  background-color: #51DB2E;
+}
