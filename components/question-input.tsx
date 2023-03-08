@@ -43,7 +43,7 @@ export default function QuestionInput({
       return;
     }
 
-    const isCorrect = answers.map(normalizeText).indexOf(value) != -1;
+    const isCorrect = answers.map(normalizeText).indexOf(normalizeText(value)) != -1;
 
     if (isCorrect) {
       setClassName(styles.correct);
