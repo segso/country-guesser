@@ -3,14 +3,16 @@ import Header from "./header";
 
 export default function Layout({
   children,
-  home
+  home,
+  score
 }: {
   children: ReactNode,
-  home?: boolean
+  home?: boolean,
+  score?: number
 }) {
   return (
     <>
-      <Header home={home} />
+      <Header home={home} score={score} />
       {children}
     </>
   );

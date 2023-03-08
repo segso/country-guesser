@@ -20,3 +20,9 @@
   margin: 0.5em 0.3em;
   padding: 0;
 }
+
+.score {
+  font-family: 'Merriweather', serif;
+  flex-grow: 1;
+  margin-left: 0.6em;
+}

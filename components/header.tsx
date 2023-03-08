@@ -4,9 +4,11 @@ import Popup from "./popup";
 import {useRouter} from "next/router";
 
 export default function Header({
-  home
+  home,
+  score
 }: {
-  home?: boolean
+  home?: boolean,
+  score?: number
 }) {
   const homeImage = <img src="/icons/home.svg" alt="Home" className={styles.image} />;
   const [isPopupVisible, setIsPopupVisible] = useState(false);
@@ -25,6 +27,9 @@ export default function Header({
       )}
 
       <nav className={styles.navigation}>
+        {score != undefined && (
+          <p className={styles.score}>Score: {score.toLocaleString()}</p>
+        )}
         <a href="https://github.com/seg-mx/country-guesser">
           <img src="/icons/github.svg" alt="GitHub" className={styles.image} />
         </a>
