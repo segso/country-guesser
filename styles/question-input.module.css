@@ -1,0 +1,16 @@
+.input {
+  font-family: 'Merriweather', serif;
+  border: 0.1em solid;
+  border-radius: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  color: black;
+}
+
+.correct {
+  background-color: #51DB2E;
+}
+
+.wrong {
+  background-color: #DB2418;
+}
