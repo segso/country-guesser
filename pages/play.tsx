@@ -53,7 +53,7 @@ export default function HomePage({
   const country = countries[index];
 
   return (
-    <Layout score={score}>
+    <Layout text={`Score: ${score.toLocaleString()} | Remaining: ${countries.length}`}>
       {(!country && index != -1) && (
         <p className={styles["finish-text"]}>Game finished!</p>
       )}

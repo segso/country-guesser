@@ -4,15 +4,15 @@ import Header from "./header";
 export default function Layout({
   children,
   home,
-  score
+  text
 }: {
   children: ReactNode,
   home?: boolean,
-  score?: number
+  text?: string
 }) {
   return (
     <>
-      <Header home={home} score={score} />
+      <Header home={home} text={text} />
       {children}
     </>
   );

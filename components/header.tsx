@@ -5,10 +5,10 @@ import {useRouter} from "next/router";
 
 export default function Header({
   home,
-  score
+  text
 }: {
   home?: boolean,
-  score?: number
+  text?: string
 }) {
   const homeImage = <img src="/country-guesser/icons/home.svg" alt="Home" className={styles.image} />;
   const [isPopupVisible, setIsPopupVisible] = useState(false);
@@ -27,8 +27,8 @@ export default function Header({
       )}
 
       <nav className={styles.navigation}>
-        {score != undefined && (
-          <p className={styles.score}>Score: {score.toLocaleString()}</p>
+        {text != undefined && (
+          <p className={styles.text}>{text}</p>
         )}
         <a href="https://github.com/seg-mx/country-guesser">
           <img src="/country-guesser/icons/github.svg" alt="GitHub" className={styles.image} />
