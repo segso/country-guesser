@@ -1,7 +1,7 @@
 import Layout from "@/components/layout";
 import QuestionInput from "@/components/question-input";
 import {getCountriesJSON, CountryJSON} from "@/lib/countries";
-import {FormEvent, useEffect, useState} from "react";
+import {FormEvent, useEffect, useRef, useState} from "react";
 import styles from "@/styles/play.module.css";
 
 export async function getStaticProps() {
@@ -22,6 +22,7 @@ export default function HomePage({
   const [showResult, setShowResult] = useState(false);
   const [index, setIndex] = useState(-1);
   const [score, setScore] = useState(0);
+  const formButton = useRef<HTMLButtonElement>(null);
 
   const addScore = (amount: number) => {
     setScore(score => score + amount);
@@ -39,15 +40,14 @@ export default function HomePage({
     event.preventDefault();
 
     if (showResult) {
-      return;
-    }
-    setShowResult(true);
-
-    setTimeout(() => {
       setShowResult(false);
       setCountries(countries.filter((_, i) => i != index));
       setRandomIndex();
-    }, 5000);
+      return;
+    }
+
+    setShowResult(true);
+    formButton.current?.focus();
   }
 
   const country = countries[index];
@@ -85,7 +85,10 @@ export default function HomePage({
             addScore={addScore}
           />
 
-          <button className={styles["send-button"]}>Send</button>
+          <button
+            className={styles["send-button"]}
+            ref={formButton}
+          >{showResult ? "Continue" : "Send"}</button>
         </form>
       </>)}
     </Layout>
