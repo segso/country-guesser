@@ -22,6 +22,7 @@ export default function HomePage({
   const [showResult, setShowResult] = useState(false);
   const [index, setIndex] = useState(-1);
   const [score, setScore] = useState(0);
+  const nameInput = useRef<HTMLInputElement>(null);
   const formButton = useRef<HTMLButtonElement>(null);
 
   const addScore = (amount: number) => {
@@ -43,6 +44,9 @@ export default function HomePage({
       setShowResult(false);
       setCountries(countries.filter((_, i) => i != index));
       setRandomIndex();
+      setTimeout(() => {
+          nameInput.current?.focus();
+      }, 100);
       return;
     }
 
@@ -75,6 +79,7 @@ export default function HomePage({
             showResult={showResult}
             score={200}
             addScore={addScore}
+            ref={nameInput}
           />
 
           <QuestionInput
