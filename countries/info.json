@@ -5,7 +5,7 @@
       "official": "Islamic Republic of Afghanistan"
     },
     "svg": "af.svg",
-    "capital": "Kabul"
+    "capitals": ["Kabul"]
   },
   {
     "name": {
@@ -13,7 +13,7 @@
       "official": "Republic of Albania"
     },
     "svg": "al.svg",
-    "capital": "Tirana"
+    "capitals": ["Tirana"]
   },
   {
     "name": {
@@ -21,7 +21,7 @@
       "official": "People's Democratic Republic of Algeria"
     },
     "svg": "dz.svg",
-    "capital": "Algiers"
+    "capitals": ["Algiers"]
   },
   {
     "name": {
@@ -29,7 +29,7 @@
       "official": "Principality of Andorra"
     },
     "svg": "ad.svg",
-    "capital": "Andorra la Vella"
+    "capitals": ["Andorra la Vella"]
   },
   {
     "name": {
@@ -37,7 +37,7 @@
       "official": "Republic of Angola"
     },
     "svg": "ao.svg",
-    "capital": "Luanda"
+    "capitals": ["Luanda"]
   },
   {
     "name": {
@@ -45,7 +45,7 @@
       "official": "Antigua and Barbuda"
     },
     "svg": "ag.svg",
-    "capital": "Saint John's"
+    "capitals": ["Saint John's"]
   },
   {
     "name": {
@@ -53,7 +53,7 @@
       "official": "Argentine Republic"
     },
     "svg": "ar.svg",
-    "capital": "Buenos Aires"
+    "capitals": ["Buenos Aires"]
   },
   {
     "name": {
@@ -61,7 +61,7 @@
       "official": "Republic of Armenia"
     },
     "svg": "am.svg",
-    "capital": "Yerevan"
+    "capitals": ["Yerevan"]
   },
   {
     "name": {
@@ -69,7 +69,7 @@
       "official": "Commonwealth of Australia"
     },
     "svg": "au.svg",
-    "capital": "Canberra"
+    "capitals": ["Canberra"]
   },
   {
     "name": {
@@ -77,7 +77,7 @@
       "official": "Republic of Austria"
     },
     "svg": "at.svg",
-    "capital": "Vienna"
+    "capitals": ["Vienna"]
   },
   {
     "name": {
@@ -85,7 +85,7 @@
       "official": "Republic of Azerbaijan"
     },
     "svg": "az.svg",
-    "capital": "Baku"
+    "capitals": ["Baku"]
   },
   {
     "name": {
@@ -93,7 +93,7 @@
       "official": "Commonwealth of the Bahamas"
     },
     "svg": "bs.svg",
-    "capital": "Nassau"
+    "capitals": ["Nassau"]
   },
   {
     "name": {
@@ -101,7 +101,7 @@
       "official": "Kingdom of Bahrain"
     },
     "svg": "bh.svg",
-    "capital": "Manama"
+    "capitals": ["Manama"]
   },
   {
     "name": {
@@ -109,7 +109,7 @@
       "official": "People's Republic of Bangladesh"
     },
     "svg": "bd.svg",
-    "capital": "Dhaka"
+    "capitals": ["Dhaka"]
   },
   {
     "name": {
@@ -117,7 +117,7 @@
       "official": "Barbados"
     },
     "svg": "bb.svg",
-    "capital": "Bridgetown"
+    "capitals": ["Bridgetown"]
   },
   {
     "name": {
@@ -125,7 +125,7 @@
       "official": "Republic of Belarus"
     },
     "svg": "by.svg",
-    "capital": "Minsk"
+    "capitals": ["Minsk"]
   },
   {
     "name": {
@@ -133,7 +133,7 @@
       "official": "Kingdom of Belgium"
     },
     "svg": "be.svg",
-    "capital": "Brussels"
+    "capitals": ["Brussels"]
   },
   {
     "name": {
@@ -141,7 +141,7 @@
       "official": "Belize"
     },
     "svg": "bz.svg",
-    "capital": "Belmopan"
+    "capitals": ["Belmopan"]
   },
   {
     "name": {
@@ -149,7 +149,7 @@
       "official": "Republic of Benin"
     },
     "svg": "bj.svg",
-    "capital": "Porto-Novo"
+    "capitals": ["Porto-Novo"]
   },
   {
     "name": {
@@ -157,7 +157,7 @@
       "official": "Kingdom of Bhutan"
     },
     "svg": "bt.svg",
-    "capital": "Thimphu"
+    "capitals": ["Thimphu"]
   },
   {
     "name": {
@@ -165,7 +165,7 @@
       "official": "Plurinational State of Bolivia"
     },
     "svg": "bo.svg",
-    "capital": "Sucre"
+    "capitals": ["Sucre"]
   },
   {
     "name": {
@@ -173,7 +173,7 @@
       "official": "Bosnia and Herzegovina"
     },
     "svg": "ba.svg",
-    "capital": "Sarajevo"
+    "capitals": ["Sarajevo"]
   },
   {
     "name": {
@@ -181,7 +181,7 @@
       "official": "Republic of Botswana"
     },
     "svg": "bw.svg",
-    "capital": "Gaborone"
+    "capitals": ["Gaborone"]
   },
   {
     "name": {
@@ -189,7 +189,7 @@
       "official": "Federative Republic of Brazil"
     },
     "svg": "br.svg",
-    "capital": "Brasilia"
+    "capitals": ["Brasilia"]
   },
   {
     "name": {
@@ -197,7 +197,7 @@
       "official": "Nation of Brunei, Abode of Peace"
     },
     "svg": "bn.svg",
-    "capital": "Bandar Seri Begawan"
+    "capitals": ["Bandar Seri Begawan"]
   },
   {
     "name": {
@@ -205,7 +205,7 @@
       "official": "Republic of Bulgaria"
     },
     "svg": "bg.svg",
-    "capital": "Sofia"
+    "capitals": ["Sofia"]
   },
   {
     "name": {
@@ -213,7 +213,7 @@
       "official": "Burkina Faso"
     },
     "svg": "bf.svg",
-    "capital": "Ouagadougou"
+    "capitals": ["Ouagadougou"]
   },
   {
     "name": {
@@ -221,7 +221,7 @@
       "official": "Republic of Burundi"
     },
     "svg": "bi.svg",
-    "capital": "Gitega"
+    "capitals": ["Gitega"]
   },
   {
     "name": {
@@ -229,7 +229,7 @@
       "official": "Kingdom of Cambodia"
     },
     "svg": "kh.svg",
-    "capital": "Phnom Penh"
+    "capitals": ["Phnom Penh"]
   },
   {
     "name": {
@@ -237,7 +237,7 @@
       "official": "Republic of Cameroon"
     },
     "svg": "cm.svg",
-    "capital": "Yaounde"
+    "capitals": ["Yaounde"]
   },
   {
     "name": {
@@ -245,7 +245,7 @@
       "official": "Canada"
     },
     "svg": "ca.svg",
-    "capital": "Ottawa"
+    "capitals": ["Ottawa"]
   },
   {
     "name": {
@@ -253,7 +253,7 @@
       "official": "Republic of Cabo Verde"
     },
     "svg": "cv.svg",
-    "capital": "Praia"
+    "capitals": ["Praia"]
   },
   {
     "name": {
@@ -261,7 +261,7 @@
       "official": "Central African Republic"
     },
     "svg": "cf.svg",
-    "capital": "Bangui"
+    "capitals": ["Bangui"]
   },
   {
     "name": {
@@ -269,7 +269,7 @@
       "official": "Republic of Chad"
     },
     "svg": "td.svg",
-    "capital": "N'Djamena"
+    "capitals": ["N'Djamena"]
   },
   {
     "name": {
@@ -277,7 +277,7 @@
       "official": "Republic of Chile"
     },
     "svg": "cl.svg",
-    "capital": "Santiago"
+    "capitals": ["Santiago"]
   },
   {
     "name": {
@@ -285,7 +285,7 @@
       "official": "People's Republic of China"
     },
     "svg": "cn.svg",
-    "capital": "Beijing"
+    "capitals": ["Beijing"]
   },
   {
     "name": {
@@ -293,7 +293,7 @@
       "official": "Republic of Colombia"
     },
     "svg": "co.svg",
-    "capital": "Bogota"
+    "capitals": ["Bogota"]
   },
   {
     "name": {
@@ -301,7 +301,7 @@
       "official": "Union of the Comoros"
     },
     "svg": "km.svg",
-    "capital": "Moroni"
+    "capitals": ["Moroni"]
   },
   {
     "name": {
@@ -309,7 +309,7 @@
       "official": "Republic of Costa Rica"
     },
     "svg": "cr.svg",
-    "capital": "San Jose"
+    "capitals": ["San Jose"]
   },
   {
     "name": {
@@ -317,7 +317,7 @@
       "official": "Republic of Croatia"
     },
     "svg": "hr.svg",
-    "capital": "Zagreb"
+    "capitals": ["Zagreb"]
   },
   {
     "name": {
@@ -325,7 +325,7 @@
       "official": "Republic of Cuba"
     },
     "svg": "cu.svg",
-    "capital": "Havana"
+    "capitals": ["Havana"]
   },
   {
     "name": {
@@ -333,7 +333,7 @@
       "official": "Republic of Cyprus"
     },
     "svg": "cy.svg",
-    "capital": "Nicosia"
+    "capitals": ["Nicosia"]
   },
   {
     "name": {
@@ -341,7 +341,7 @@
       "official": "Czech Republic"
     },
     "svg": "cz.svg",
-    "capital": "Prague"
+    "capitals": ["Prague"]
   },
   {
     "name": {
@@ -349,7 +349,7 @@
       "official": "Democratic Republic of the Congo"
     },
     "svg": "cd.svg",
-    "capital": "Kinshasa"
+    "capitals": ["Kinshasa"]
   },
   {
     "name": {
@@ -357,7 +357,7 @@
       "official": "Kingdom of Denmark"
     },
     "svg": "dk.svg",
-    "capital": "Copenhagen"
+    "capitals": ["Copenhagen"]
   },
   {
     "name": {
@@ -365,7 +365,7 @@
       "official": "Republic of Djibouti"
     },
     "svg": "dj.svg",
-    "capital": "Djibouti"
+    "capitals": ["Djibouti"]
   },
   {
     "name": {
@@ -373,7 +373,7 @@
       "official": "Commonwealth of Dominica"
     },
     "svg": "dm.svg",
-    "capital": "Roseau"
+    "capitals": ["Roseau"]
   },
   {
     "name": {
@@ -381,7 +381,7 @@
       "official": "Dominican Republic"
     },
     "svg": "do.svg",
-    "capital": "Santo Domingo"
+    "capitals": ["Santo Domingo"]
   },
   {
     "name": {
@@ -389,7 +389,7 @@
       "official": "Republic of Ecuador"
     },
     "svg": "ec.svg",
-    "capital": "Quito"
+    "capitals": ["Quito"]
   },
   {
     "name": {
@@ -397,7 +397,7 @@
       "official": "Arab Republic of Egypt"
     },
     "svg": "eg.svg",
-    "capital": "Cairo"
+    "capitals": ["Cairo"]
   },
   {
     "name": {
@@ -405,7 +405,7 @@
       "official": "Republic of El Salvador"
     },
     "svg": "sv.svg",
-    "capital": "San Salvador"
+    "capitals": ["San Salvador"]
   },
   {
     "name": {
@@ -413,7 +413,7 @@
       "official": "Republic of Equatorial Guinea"
     },
     "svg": "gq.svg",
-    "capital": "Malabo"
+    "capitals": ["Malabo"]
   },
   {
     "name": {
@@ -421,7 +421,7 @@
       "official": "State of Eritrea"
     },
     "svg": "er.svg",
-    "capital": "Asmara"
+    "capitals": ["Asmara"]
   },
   {
     "name": {
@@ -429,7 +429,7 @@
       "official": "Republic of Estonia"
     },
     "svg": "ee.svg",
-    "capital": "Tallinn"
+    "capitals": ["Tallinn"]
   },
   {
     "name": {
@@ -437,7 +437,7 @@
       "official": "Kingdom of Eswatini"
     },
     "svg": "sz.svg",
-    "capital": "Mbabane"
+    "capitals": ["Mbabane"]
   },
   {
     "name": {
@@ -445,7 +445,7 @@
       "official": "Federal Democratic Republic of Ethiopia"
     },
     "svg": "et.svg",
-    "capital": "Addis Ababa"
+    "capitals": ["Addis Ababa"]
   },
   {
     "name": {
@@ -453,7 +453,7 @@
       "official": "Republic of Fiji"
     },
     "svg": "fj.svg",
-    "capital": "Suva"
+    "capitals": ["Suva"]
   },
   {
     "name": {
@@ -461,7 +461,7 @@
       "official": "Republic of Finland"
     },
     "svg": "fi.svg",
-    "capital": "Helsinki"
+    "capitals": ["Helsinki"]
   },
   {
     "name": {
@@ -469,7 +469,7 @@
       "official": "French Republic"
     },
     "svg": "fr.svg",
-    "capital": "Paris"
+    "capitals": ["Paris"]
   },
   {
     "name": {
@@ -477,7 +477,7 @@
       "official": "Gabonese Republic"
     },
     "svg": "ga.svg",
-    "capital": "Libreville"
+    "capitals": ["Libreville"]
   },
   {
     "name": {
@@ -485,7 +485,7 @@
       "official": "Republic of the Gambia"
     },
     "svg": "gm.svg",
-    "capital": "Banjul"
+    "capitals": ["Banjul"]
   },
   {
     "name": {
@@ -493,7 +493,7 @@
       "official": "Georgia"
     },
     "svg": "ge.svg",
-    "capital": "Tbilisi"
+    "capitals": ["Tbilisi"]
   },
   {
     "name": {
@@ -501,7 +501,7 @@
       "official": "Federal Republic of Germany"
     },
     "svg": "de.svg",
-    "capital": "Berlin"
+    "capitals": ["Berlin"]
   },
   {
     "name": {
@@ -509,7 +509,7 @@
       "official": "Republic of Ghana"
     },
     "svg": "gh.svg",
-    "capital": "Accra"
+    "capitals": ["Accra"]
   },
   {
     "name": {
@@ -517,7 +517,7 @@
       "official": "Hellenic Republic"
     },
     "svg": "gr.svg",
-    "capital": "Athens"
+    "capitals": ["Athens"]
   },
   {
     "name": {
@@ -525,7 +525,7 @@
       "official": "Grenada"
     },
     "svg": "gd.svg",
-    "capital": "St. George's"
+    "capitals": ["St. George's"]
   },
   {
     "name": {
@@ -533,7 +533,7 @@
       "official": "Republic of Guatemala"
     },
     "svg": "gt.svg",
-    "capital": "Guatemala City"
+    "capitals": ["Guatemala City"]
   },
   {
     "name": {
@@ -541,7 +541,7 @@
       "official": "Republic of Guinea"
     },
     "svg": "gn.svg",
-    "capital": "Conakry"
+    "capitals": ["Conakry"]
   },
   {
     "name": {
@@ -549,7 +549,7 @@
       "official": "Republic of Guinea-Bissau"
     },
     "svg": "gw.svg",
-    "capital": "Bissau"
+    "capitals": ["Bissau"]
   },
   {
     "name": {
@@ -557,7 +557,7 @@
       "official": "Co-operative Republic of Guyana"
     },
     "svg": "gy.svg",
-    "capital": "Georgetown"
+    "capitals": ["Georgetown"]
   },
   {
     "name": {
@@ -565,7 +565,7 @@
       "official": "Republic of Haiti"
     },
     "svg": "ht.svg",
-    "capital": "Port-au-Prince"
+    "capitals": ["Port-au-Prince"]
   },
   {
     "name": {
@@ -573,7 +573,7 @@
       "official": "Republic of Honduras"
     },
     "svg": "hn.svg",
-    "capital": "Tegucigalpa"
+    "capitals": ["Tegucigalpa"]
   },
   {
     "name": {
@@ -581,7 +581,7 @@
       "official": "Hungary"
     },
     "svg": "hu.svg",
-    "capital": "Budapest"
+    "capitals": ["Budapest"]
   },
   {
     "name": {
@@ -589,7 +589,7 @@
       "official": "Iceland"
     },
     "svg": "is.svg",
-    "capital": "Reykjavik"
+    "capitals": ["Reykjavik"]
   },
   {
     "name": {
@@ -597,7 +597,7 @@
       "official": "Republic of India"
     },
     "svg": "in.svg",
-    "capital": "New Delhi"
+    "capitals": ["New Delhi"]
   },
   {
     "name": {
@@ -605,7 +605,7 @@
       "official": "Republic of Indonesia"
     },
     "svg": "id.svg",
-    "capital": "Jakarta"
+    "capitals": ["Jakarta"]
   },
   {
     "name": {
@@ -613,7 +613,7 @@
       "official": "Islamic Republic of Iran"
     },
     "svg": "ir.svg",
-    "capital": "Tehran"
+    "capitals": ["Tehran"]
   },
   {
     "name": {
@@ -621,7 +621,7 @@
       "official": "Republic of Iraq"
     },
     "svg": "iq.svg",
-    "capital": "Baghdad"
+    "capitals": ["Baghdad"]
   },
   {
     "name": {
@@ -629,7 +629,7 @@
       "official": "Republic of Ireland"
     },
     "svg": "ie.svg",
-    "capital": "Dublin"
+    "capitals": ["Dublin"]
   },
   {
     "name": {
@@ -637,7 +637,7 @@
       "official": "State of Israel"
     },
     "svg": "il.svg",
-    "capital": "Jerusalem"
+    "capitals": ["Jerusalem"]
   },
   {
     "name": {
@@ -645,7 +645,7 @@
       "official": "Italian Republic"
     },
     "svg": "it.svg",
-    "capital": "Rome"
+    "capitals": ["Rome"]
   },
   {
     "name": {
@@ -653,7 +653,7 @@
       "official": "Republic of Côte d'Ivoire"
     },
     "svg": "ci.svg",
-    "capital": "Yamoussoukro"
+    "capitals": ["Yamoussoukro"]
   },
   {
     "name": {
@@ -661,7 +661,7 @@
       "official": "Jamaica"
     },
     "svg": "jm.svg",
-    "capital": "Kingston"
+    "capitals": ["Kingston"]
   },
   {
     "name": {
@@ -669,7 +669,7 @@
       "official": "Japan"
     },
     "svg": "jp.svg",
-    "capital": "Tokyo"
+    "capitals": ["Tokyo"]
   },
   {
     "name": {
@@ -677,7 +677,7 @@
       "official": "Hashemite Kingdom of Jordan"
     },
     "svg": "jo.svg",
-    "capital": "Amman"
+    "capitals": ["Amman"]
   },
   {
     "name": {
@@ -685,7 +685,7 @@
       "official": "Republic of Kazakhstan"
     },
     "svg": "kz.svg",
-    "capital": "Nur-Sultan"
+    "capitals": ["Nur-Sultan"]
   },
   {
     "name": {
@@ -693,7 +693,7 @@
       "official": "Republic of Kenya"
     },
     "svg": "ke.svg",
-    "capital": "Nairobi"
+    "capitals": ["Nairobi"]
   },
   {
     "name": {
@@ -701,7 +701,7 @@
       "official": "Independent and Sovereign Republic of Kiribati"
     },
     "svg": "ki.svg",
-    "capital": "South Tarawa"
+    "capitals": ["South Tarawa"]
   },
   {
     "name": {
@@ -709,7 +709,7 @@
       "official": "State of Kuwait"
     },
     "svg": "kw.svg",
-    "capital": "Kuwait City"
+    "capitals": ["Kuwait City"]
   },
   {
     "name": {
@@ -717,7 +717,7 @@
       "official": "Kyrgyz Republic"
     },
     "svg": "kg.svg",
-    "capital": "Bishkek"
+    "capitals": ["Bishkek"]
   },
   {
     "name": {
@@ -725,7 +725,7 @@
       "official": "Lao People's Democratic Republic"
     },
     "svg": "la.svg",
-    "capital": "Vientiane"
+    "capitals": ["Vientiane"]
   },
   {
     "name": {
@@ -733,7 +733,7 @@
       "official": "Republic of Latvia"
     },
     "svg": "lv.svg",
-    "capital": "Riga"
+    "capitals": ["Riga"]
   },
   {
     "name": {
@@ -741,7 +741,7 @@
       "official": "Lebanese Republic"
     },
     "svg": "lb.svg",
-    "capital": "Beirut"
+    "capitals": ["Beirut"]
   },
   {
     "name": {
@@ -749,7 +749,7 @@
       "official": "Kingdom of Lesotho"
     },
     "svg": "ls.svg",
-    "capital": "Maseru"
+    "capitals": ["Maseru"]
   },
   {
     "name": {
@@ -757,7 +757,7 @@
       "official": "Republic of Liberia"
     },
     "svg": "lr.svg",
-    "capital": "Monrovia"
+    "capitals": ["Monrovia"]
   },
   {
     "name": {
@@ -765,7 +765,7 @@
       "official": "State of Libya"
     },
     "svg": "ly.svg",
-    "capital": "Tripoli"
+    "capitals": ["Tripoli"]
   },
   {
     "name": {
@@ -773,7 +773,7 @@
       "official": "Principality of Liechtenstein"
     },
     "svg": "li.svg",
-    "capital": "Vaduz"
+    "capitals": ["Vaduz"]
   },
   {
     "name": {
@@ -781,7 +781,7 @@
       "official": "Republic of Lithuania"
     },
     "svg": "lt.svg",
-    "capital": "Vilnius"
+    "capitals": ["Vilnius"]
   },
   {
     "name": {
@@ -789,7 +789,7 @@
       "official": "Grand Duchy of Luxembourg"
     },
     "svg": "lu.svg",
-    "capital": "Luxembourg"
+    "capitals": ["Luxembourg"]
   },
   {
     "name": {
@@ -797,7 +797,7 @@
       "official": "Republic of Madagascar"
     },
     "svg": "mg.svg",
-    "capital": "Antananarivo"
+    "capitals": ["Antananarivo"]
   },
   {
     "name": {
@@ -805,7 +805,7 @@
       "official": "Republic of Malawi"
     },
     "svg": "mw.svg",
-    "capital": "Lilongwe"
+    "capitals": ["Lilongwe"]
   },
   {
     "name": {
@@ -813,7 +813,7 @@
       "official": "Malaysia"
     },
     "svg": "my.svg",
-    "capital": "Kuala Lumpur"
+    "capitals": ["Kuala Lumpur"]
   },
   {
     "name": {
@@ -821,7 +821,7 @@
       "official": "Republic of the Maldives"
     },
     "svg": "mv.svg",
-    "capital": "Male"
+    "capitals": ["Male"]
   },
   {
     "name": {
@@ -829,7 +829,7 @@
       "official": "Republic of Mali"
     },
     "svg": "ml.svg",
-    "capital": "Bamako"
+    "capitals": ["Bamako"]
   },
   {
     "name": {
@@ -837,7 +837,7 @@
       "official": "Republic of Malta"
     },
     "svg": "mt.svg",
-    "capital": "Valletta"
+    "capitals": ["Valletta"]
   },
   {
     "name": {
@@ -845,7 +845,7 @@
       "official": "Republic of the Marshall Islands"
     },
     "svg": "mh.svg",
-    "capital": "Majuro"
+    "capitals": ["Majuro"]
   },
   {
     "name": {
@@ -853,7 +853,7 @@
       "official": "Islamic Republic of Mauritania"
     },
     "svg": "mr.svg",
-    "capital": "Nouakchott"
+    "capitals": ["Nouakchott"]
   },
   {
     "name": {
@@ -861,7 +861,7 @@
       "official": "Republic of Mauritius"
     },
     "svg": "mu.svg",
-    "capital": "Port Louis"
+    "capitals": ["Port Louis"]
   },
   {
     "name": {
@@ -869,7 +869,7 @@
       "official": "United Mexican States"
     },
     "svg": "mx.svg",
-    "capital": "Mexico City"
+    "capitals": ["Mexico City"]
   },
   {
     "name": {
@@ -877,7 +877,7 @@
       "official": "Federated States of Micronesia"
     },
     "svg": "fm.svg",
-    "capital": "Palikir"
+    "capitals": ["Palikir"]
   },
   {
     "name": {
@@ -885,7 +885,7 @@
       "official": "Republic of Moldova"
     },
     "svg": "md.svg",
-    "capital": "Chișinău"
+    "capitals": ["Chișinău"]
   },
   {
     "name": {
@@ -893,7 +893,7 @@
       "official": "Principality of Monaco"
     },
     "svg": "mc.svg",
-    "capital": "Monaco"
+    "capitals": ["Monaco"]
   },
   {
     "name": {
@@ -901,7 +901,7 @@
       "official": "Mongolia"
     },
     "svg": "mn.svg",
-    "capital": "Ulan Bator"
+    "capitals": ["Ulan Bator"]
   },
   {
     "name": {
@@ -909,7 +909,7 @@
       "official": "Montenegro"
     },
     "svg": "me.svg",
-    "capital": "Podgorica"
+    "capitals": ["Podgorica"]
   },
   {
     "name": {
@@ -917,7 +917,7 @@
       "official": "Kingdom of Morocco"
     },
     "svg": "ma.svg",
-    "capital": "Rabat"
+    "capitals": ["Rabat"]
   },
   {
     "name": {
@@ -925,7 +925,7 @@
       "official": "Republic of Mozambique"
     },
     "svg": "mz.svg",
-    "capital": "Maputo"
+    "capitals": ["Maputo"]
   },
   {
     "name": {
@@ -933,7 +933,7 @@
       "official": "Republic of the Union of Myanmar"
     },
     "svg": "mm.svg",
-    "capital": "Naypyidaw"
+    "capitals": ["Naypyidaw"]
   },
   {
     "name": {
@@ -941,7 +941,7 @@
       "official": "Republic of Namibia"
     },
     "svg": "na.svg",
-    "capital": "Windhoek"
+    "capitals": ["Windhoek"]
   },
   {
     "name": {
@@ -949,7 +949,7 @@
       "official": "Republic of Nauru"
     },
     "svg": "nr.svg",
-    "capital": "Yaren"
+    "capitals": ["Yaren"]
   },
   {
     "name": {
@@ -957,7 +957,7 @@
       "official": "Federal Democratic Republic of Nepal"
     },
     "svg": "np.svg",
-    "capital": "Kathmandu"
+    "capitals": ["Kathmandu"]
   },
   {
     "name": {
@@ -965,7 +965,7 @@
       "official": "Kingdom of the Netherlands"
     },
     "svg": "nl.svg",
-    "capital": "Amsterdam"
+    "capitals": ["Amsterdam"]
   },
   {
     "name": {
@@ -973,7 +973,7 @@
       "official": "New Zealand"
     },
     "svg": "nz.svg",
-    "capital": "Wellington"
+    "capitals": ["Wellington"]
   },
   {
     "name": {
@@ -981,7 +981,7 @@
       "official": "Republic of Nicaragua"
     },
     "svg": "ni.svg",
-    "capital": "Managua"
+    "capitals": ["Managua"]
   },
   {
     "name": {
@@ -989,7 +989,7 @@
       "official": "Republic of Niger"
     },
     "svg": "ne.svg",
-    "capital": "Niamey"
+    "capitals": ["Niamey"]
   },
   {
     "name": {
@@ -997,7 +997,7 @@
       "official": "Federal Republic of Nigeria"
     },
     "svg": "ng.svg",
-    "capital": "Abuja"
+    "capitals": ["Abuja"]
   },
   {
     "name": {
@@ -1005,7 +1005,7 @@
       "official": "Democratic People's Republic of Korea"
     },
     "svg": "kp.svg",
-    "capital": "Pyongyang"
+    "capitals": ["Pyongyang"]
   },
   {
     "name": {
@@ -1013,7 +1013,7 @@
       "official": "Republic of North Macedonia"
     },
     "svg": "mk.svg",
-    "capital": "Skopje"
+    "capitals": ["Skopje"]
   },
   {
     "name": {
@@ -1021,7 +1021,7 @@
       "official": "Kingdom of Norway"
     },
     "svg": "no.svg",
-    "capital": "Oslo"
+    "capitals": ["Oslo"]
   },
   {
     "name": {
@@ -1029,7 +1029,7 @@
       "official": "Sultanate of Oman"
     },
     "svg": "om.svg",
-    "capital": "Muscat"
+    "capitals": ["Muscat"]
   },
   {
     "name": {
@@ -1037,7 +1037,7 @@
       "official": "Islamic Republic of Pakistan"
     },
     "svg": "pk.svg",
-    "capital": "Islamabad"
+    "capitals": ["Islamabad"]
   },
   {
     "name": {
@@ -1045,7 +1045,7 @@
       "official": "Republic of Palau"
     },
     "svg": "pw.svg",
-    "capital": "Ngerulmud"
+    "capitals": ["Ngerulmud"]
   },
   {
     "name": {
@@ -1053,7 +1053,7 @@
       "official": "State of Palestine"
     },
     "svg": "ps.svg",
-    "capital": "Ramallah,Jerusalem"
+    "capitals": ["Ramallah", "Jerusalem"]
   },
   {
     "name": {
@@ -1061,7 +1061,7 @@
       "official": "Republic of Panama"
     },
     "svg": "pa.svg",
-    "capital": "Panama City"
+    "capitals": ["Panama City"]
   },
   {
     "name": {
@@ -1069,7 +1069,7 @@
       "official": "Independent State of Papua New Guinea"
     },
     "svg": "pg.svg",
-    "capital": "Port Moresby"
+    "capitals": ["Port Moresby"]
   },
   {
     "name": {
@@ -1077,7 +1077,7 @@
       "official": "Republic of Paraguay"
     },
     "svg": "py.svg",
-    "capital": "Asuncion"
+    "capitals": ["Asuncion"]
   },
   {
     "name": {
@@ -1085,7 +1085,7 @@
       "official": "Republic of Peru"
     },
     "svg": "pe.svg",
-    "capital": "Lima"
+    "capitals": ["Lima"]
   },
   {
     "name": {
@@ -1093,7 +1093,7 @@
       "official": "Republic of the Philippines"
     },
     "svg": "ph.svg",
-    "capital": "Manila"
+    "capitals": ["Manila"]
   },
   {
     "name": {
@@ -1101,7 +1101,7 @@
       "official": "Republic of Poland"
     },
     "svg": "pl.svg",
-    "capital": "Warsaw"
+    "capitals": ["Warsaw"]
   },
   {
     "name": {
@@ -1109,7 +1109,7 @@
       "official": "Portuguese Republic"
     },
     "svg": "pt.svg",
-    "capital": "Lisbon"
+    "capitals": ["Lisbon"]
   },
   {
     "name": {
@@ -1117,7 +1117,7 @@
       "official": "State of Qatar"
     },
     "svg": "qa.svg",
-    "capital": "Doha"
+    "capitals": ["Doha"]
   },
   {
     "name": {
@@ -1125,7 +1125,7 @@
       "official": "Republic of the Congo"
     },
     "svg": "cg.svg",
-    "capital": "Brazzaville"
+    "capitals": ["Brazzaville"]
   },
   {
     "name": {
@@ -1133,7 +1133,7 @@
       "official": "Romania"
     },
     "svg": "ro.svg",
-    "capital": "Bucharest"
+    "capitals": ["Bucharest"]
   },
   {
     "name": {
@@ -1141,7 +1141,7 @@
       "official": "Russian Federation"
     },
     "svg": "ru.svg",
-    "capital": "Moscow"
+    "capitals": ["Moscow"]
   },
   {
     "name": {
@@ -1149,7 +1149,7 @@
       "official": "Republic of Rwanda"
     },
     "svg": "rw.svg",
-    "capital": "Kigali"
+    "capitals": ["Kigali"]
   },
   {
     "name": {
@@ -1157,7 +1157,7 @@
       "official": "Federation of Saint Christopher and Nevis"
     },
     "svg": "kn.svg",
-    "capital": "Basseterre"
+    "capitals": ["Basseterre"]
   },
   {
     "name": {
@@ -1165,7 +1165,7 @@
       "official": "Saint Lucia"
     },
     "svg": "lc.svg",
-    "capital": "Castries"
+    "capitals": ["Castries"]
   },
   {
     "name": {
@@ -1173,7 +1173,7 @@
       "official": "Saint Vincent and the Grenadines"
     },
     "svg": "vc.svg",
-    "capital": "Kingstown"
+    "capitals": ["Kingstown"]
   },
   {
     "name": {
@@ -1181,7 +1181,7 @@
       "official": "Independent State of Samoa"
     },
     "svg": "ws.svg",
-    "capital": "Apia"
+    "capitals": ["Apia"]
   },
   {
     "name": {
@@ -1189,7 +1189,7 @@
       "official": "Republic of San Marino"
     },
     "svg": "sm.svg",
-    "capital": "City of San Marino"
+    "capitals": ["City of San Marino"]
   },
   {
     "name": {
@@ -1197,7 +1197,7 @@
       "official": "Kingdom of Saudi Arabia"
     },
     "svg": "sa.svg",
-    "capital": "Riyadh"
+    "capitals": ["Riyadh"]
   },
   {
     "name": {
@@ -1205,7 +1205,7 @@
       "official": "Republic of Senegal"
     },
     "svg": "sn.svg",
-    "capital": "Dakar"
+    "capitals": ["Dakar"]
   },
   {
     "name": {
@@ -1213,7 +1213,7 @@
       "official": "Republic of Serbia"
     },
     "svg": "rs.svg",
-    "capital": "Belgrade"
+    "capitals": ["Belgrade"]
   },
   {
     "name": {
@@ -1221,7 +1221,7 @@
       "official": "Republic of Seychelles"
     },
     "svg": "sc.svg",
-    "capital": "Victoria"
+    "capitals": ["Victoria"]
   },
   {
     "name": {
@@ -1229,7 +1229,7 @@
       "official": "Republic of Sierra Leone"
     },
     "svg": "sl.svg",
-    "capital": "Freetown"
+    "capitals": ["Freetown"]
   },
   {
     "name": {
@@ -1237,7 +1237,7 @@
       "official": "Republic of Singapore"
     },
     "svg": "sg.svg",
-    "capital": "Singapore"
+    "capitals": ["Singapore"]
   },
   {
     "name": {
@@ -1245,7 +1245,7 @@
       "official": "Slovak Republic"
     },
     "svg": "sk.svg",
-    "capital": "Bratislava"
+    "capitals": ["Bratislava"]
   },
   {
     "name": {
@@ -1253,7 +1253,7 @@
       "official": "Republic of Slovenia"
     },
     "svg": "si.svg",
-    "capital": "Ljubljana"
+    "capitals": ["Ljubljana"]
   },
   {
     "name": {
@@ -1261,7 +1261,7 @@
       "official": "Solomon Islands"
     },
     "svg": "sb.svg",
-    "capital": "Honiara"
+    "capitals": ["Honiara"]
   },
   {
     "name": {
@@ -1269,7 +1269,7 @@
       "official": "Federal Republic of Somalia"
     },
     "svg": "so.svg",
-    "capital": "Mogadishu"
+    "capitals": ["Mogadishu"]
   },
   {
     "name": {
@@ -1277,7 +1277,7 @@
       "official": "Republic of South Africa"
     },
     "svg": "za.svg",
-    "capital": "Pretoria,Bloemfontein,Cape Town"
+    "capitals": ["Pretoria", "Bloemfontein", "Cape Town"]
   },
   {
     "name": {
@@ -1285,7 +1285,7 @@
       "official": "Republic of Korea"
     },
     "svg": "kr.svg",
-    "capital": "Seoul"
+    "capitals": ["Seoul"]
   },
   {
     "name": {
@@ -1293,7 +1293,7 @@
       "official": "Republic of South Sudan"
     },
     "svg": "ss.svg",
-    "capital": "Juba"
+    "capitals": ["Juba"]
   },
   {
     "name": {
@@ -1301,7 +1301,7 @@
       "official": "Kingdom of Spain"
     },
     "svg": "es.svg",
-    "capital": "Madrid"
+    "capitals": ["Madrid"]
   },
   {
     "name": {
@@ -1309,7 +1309,7 @@
       "official": "Democratic Socialist Republic of Sri Lanka"
     },
     "svg": "lk.svg",
-    "capital": "Sri Jayawardenepura Kotte"
+    "capitals": ["Sri Jayawardenepura Kotte"]
   },
   {
     "name": {
@@ -1317,7 +1317,7 @@
       "official": "Republic of the Sudan"
     },
     "svg": "sd.svg",
-    "capital": "Khartoum"
+    "capitals": ["Khartoum"]
   },
   {
     "name": {
@@ -1325,7 +1325,7 @@
       "official": "Republic of Suriname"
     },
     "svg": "sr.svg",
-    "capital": "Paramaribo"
+    "capitals": ["Paramaribo"]
   },
   {
     "name": {
@@ -1333,7 +1333,7 @@
       "official": "Kingdom of Sweden"
     },
     "svg": "se.svg",
-    "capital": "Stockholm"
+    "capitals": ["Stockholm"]
   },
   {
     "name": {
@@ -1341,7 +1341,7 @@
       "official": "Swiss Confederation"
     },
     "svg": "ch.svg",
-    "capital": "Bern"
+    "capitals": ["Bern"]
   },
   {
     "name": {
@@ -1349,7 +1349,7 @@
       "official": "Syrian Arab Republic"
     },
     "svg": "sy.svg",
-    "capital": "Damascus"
+    "capitals": ["Damascus"]
   },
   {
     "name": {
@@ -1357,7 +1357,7 @@
       "official": "Democratic Republic of Sao Tome and Principe"
     },
     "svg": "st.svg",
-    "capital": "Sao Tome"
+    "capitals": ["Sao Tome"]
   },
   {
     "name": {
@@ -1365,7 +1365,7 @@
       "official": "Republic of Tajikistan"
     },
     "svg": "tj.svg",
-    "capital": "Dushanbe"
+    "capitals": ["Dushanbe"]
   },
   {
     "name": {
@@ -1373,7 +1373,7 @@
       "official": "United Republic of Tanzania"
     },
     "svg": "tz.svg",
-    "capital": "Dodoma"
+    "capitals": ["Dodoma"]
   },
   {
     "name": {
@@ -1381,7 +1381,7 @@
       "official": "Kingdom of Thailand"
     },
     "svg": "th.svg",
-    "capital": "Bangkok"
+    "capitals": ["Bangkok"]
   },
   {
     "name": {
@@ -1389,7 +1389,7 @@
       "official": "Democratic Republic of Timor-Leste"
     },
     "svg": "tl.svg",
-    "capital": "Dili"
+    "capitals": ["Dili"]
   },
   {
     "name": {
@@ -1397,7 +1397,7 @@
       "official": "Togolese Republic"
     },
     "svg": "tg.svg",
-    "capital": "Lome"
+    "capitals": ["Lome"]
   },
   {
     "name": {
@@ -1405,7 +1405,7 @@
       "official": "Kingdom of Tonga"
     },
     "svg": "to.svg",
-    "capital": "Nuku'alofa"
+    "capitals": ["Nuku'alofa"]
   },
   {
     "name": {
@@ -1413,7 +1413,7 @@
       "official": "Republic of Trinidad and Tobago"
     },
     "svg": "tt.svg",
-    "capital": "Port of Spain"
+    "capitals": ["Port of Spain"]
   },
   {
     "name": {
@@ -1421,7 +1421,7 @@
       "official": "Tunisian Republic"
     },
     "svg": "tn.svg",
-    "capital": "Tunis"
+    "capitals": ["Tunis"]
   },
   {
     "name": {
@@ -1429,7 +1429,7 @@
       "official": "Republic of Turkey"
     },
     "svg": "tr.svg",
-    "capital": "Ankara"
+    "capitals": ["Ankara"]
   },
   {
     "name": {
@@ -1437,7 +1437,7 @@
       "official": "Turkmenistan"
     },
     "svg": "tm.svg",
-    "capital": "Ashgabat"
+    "capitals": ["Ashgabat"]
   },
   {
     "name": {
@@ -1445,7 +1445,7 @@
       "official": "Tuvalu"
     },
     "svg": "tv.svg",
-    "capital": "Funafuti"
+    "capitals": ["Funafuti"]
   },
   {
     "name": {
@@ -1453,7 +1453,7 @@
       "official": "Republic of Uganda"
     },
     "svg": "ug.svg",
-    "capital": "Kampala"
+    "capitals": ["Kampala"]
   },
   {
     "name": {
@@ -1461,7 +1461,7 @@
       "official": "Ukraine"
     },
     "svg": "ua.svg",
-    "capital": "Kyiv"
+    "capitals": ["Kyiv"]
   },
   {
     "name": {
@@ -1469,7 +1469,7 @@
       "official": "United Arab Emirates"
     },
     "svg": "ae.svg",
-    "capital": "Abu Dhabi"
+    "capitals": ["Abu Dhabi"]
   },
   {
     "name": {
@@ -1477,7 +1477,7 @@
       "official": "United Kingdom of Great Britain and Northern Ireland"
     },
     "svg": "gb.svg",
-    "capital": "London"
+    "capitals": ["London"]
   },
   {
     "name": {
@@ -1485,7 +1485,7 @@
       "official": "United States of America"
     },
     "svg": "us.svg",
-    "capital": "Washington, D.C."
+    "capitals": ["Washington, D.C."]
   },
   {
     "name": {
@@ -1493,7 +1493,7 @@
       "official": "Oriental Republic of Uruguay"
     },
     "svg": "uy.svg",
-    "capital": "Montevideo"
+    "capitals": ["Montevideo"]
   },
   {
     "name": {
@@ -1501,7 +1501,7 @@
       "official": "Republic of Uzbekistan"
     },
     "svg": "uz.svg",
-    "capital": "Tashkent"
+    "capitals": ["Tashkent"]
   },
   {
     "name": {
@@ -1509,7 +1509,7 @@
       "official": "Republic of Vanuatu"
     },
     "svg": "vu.svg",
-    "capital": "Port Vila"
+    "capitals": ["Port Vila"]
   },
   {
     "name": {
@@ -1517,7 +1517,7 @@
       "official": "Vatican City State"
     },
     "svg": "va.svg",
-    "capital": "Vatican City"
+    "capitals": ["Vatican City"]
   },
   {
     "name": {
@@ -1525,7 +1525,7 @@
       "official": "Bolivarian Republic of Venezuela"
     },
     "svg": "ve.svg",
-    "capital": "Caracas"
+    "capitals": ["Caracas"]
   },
   {
     "name": {
@@ -1533,7 +1533,7 @@
       "official": "Socialist Republic of Vietnam"
     },
     "svg": "vn.svg",
-    "capital": "Hanoi"
+    "capitals": ["Hanoi"]
   },
   {
     "name": {
@@ -1541,7 +1541,7 @@
       "official": "Republic of Yemen"
     },
     "svg": "ye.svg",
-    "capital": "Sana'a"
+    "capitals": ["Sana'a"]
   },
   {
     "name": {
@@ -1549,7 +1549,7 @@
       "official": "Republic of Zambia"
     },
     "svg": "zm.svg",
-    "capital": "Lusaka"
+    "capitals": ["Lusaka"]
   },
   {
     "name": {
@@ -1557,6 +1557,6 @@
       "official": "Republic of Zimbabwe"
     },
     "svg": "zw.svg",
-    "capital": "Harare"
+    "capitals": ["Harare"]
   }
 ]

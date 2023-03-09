@@ -6,7 +6,7 @@ export type CountryJSON = {
     official: string
   },
   svg: string,
-  capital: string
+  capitals: string[]
 }
 
 export function getCountriesJSON(): CountryJSON[] {

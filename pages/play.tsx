@@ -62,7 +62,7 @@ export default function HomePage({
         <div className={styles.display}>
           {showResult ? (<>
             <p>{country.name.official}</p>
-            <p>{country.capital}</p>
+            <p>{country.capitals.join(", ")}</p>
           </>) : (
             <img src={`/country-guesser/flags/${country.svg}`}/>
           )}
@@ -79,7 +79,7 @@ export default function HomePage({
 
           <QuestionInput
             placeholder="Country capital"
-            answers={[country.capital]}
+            answers={[...country.capitals, country.capitals.join(", ")]}
             showResult={showResult}
             score={400}
             addScore={addScore}
