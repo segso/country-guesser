@@ -8,7 +8,14 @@ function normalizeText(text: string) {
     "í": "i",
     "ó": "o",
     "ú": "u",
-    "ã": "a"
+    "ã": "a",
+    "ô": "o",
+    "ș": "s",
+    "ă": "a",
+    ",": "",
+    ".": "",
+    "'": "",
+    "-": " "
   };
 
   text = text.toLowerCase().trim().replace(/\s+/g, " ");
