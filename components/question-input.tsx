@@ -1,4 +1,4 @@
-import {useEffect, useState} from "react";
+import React, {ForwardedRef, useEffect, useState} from "react";
 import styles from "@/styles/question-input.module.css";
 
 function normalizeText(text: string) {
@@ -26,7 +26,7 @@ function normalizeText(text: string) {
   return text;
 }
 
-export default function QuestionInput({
+const QuestionInput = React.forwardRef(({
   placeholder,
   answers,
   showResult,
@@ -38,7 +38,7 @@ export default function QuestionInput({
   showResult: boolean,
   score: number,
   addScore: (score: number) => void;
-}) {
+}, ref: ForwardedRef<HTMLInputElement>) => {
   const [value, setValue] = useState("");
   const [className, setClassName] = useState("");
 
@@ -68,6 +68,9 @@ export default function QuestionInput({
       value={value}
       onChange={event => setValue(event.target.value)}
       className={styles.input + " " + (showResult ? className : "")}
+      ref={ref}
     />
   );
-}
+})
+
+export default QuestionInput;
