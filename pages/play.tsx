@@ -22,11 +22,16 @@ export default function HomePage({
   const [showResult, setShowResult] = useState(false);
   const [index, setIndex] = useState(-1);
   const [score, setScore] = useState(0);
+  const [mistakes, setMistakes] = useState(0);
   const nameInput = useRef<HTMLInputElement>(null);
   const formButton = useRef<HTMLButtonElement>(null);
 
   const addScore = (amount: number) => {
     setScore(score => score + amount);
+  }
+
+  const addMistake = () => {
+    setMistakes(mistakes => mistakes + 1);
   }
 
   const setRandomIndex = () => {
@@ -57,7 +62,11 @@ export default function HomePage({
   const country = countries[index];
 
   return (
-    <Layout text={`Score: ${score.toLocaleString()} | Remaining: ${countries.length}`}>
+    <Layout text={
+      `Score: ${score.toLocaleString()} | ` +
+      `Mistakes: ${mistakes} | ` +
+      `Remaining: ${countries.length}`
+    }>
       {(!country && index != -1) && (
         <p className={styles["finish-text"]}>Game finished!</p>
       )}
@@ -79,6 +88,7 @@ export default function HomePage({
             showResult={showResult}
             score={200}
             addScore={addScore}
+            addMistake={addMistake}
             ref={nameInput}
           />
 
@@ -88,6 +98,7 @@ export default function HomePage({
             showResult={showResult}
             score={400}
             addScore={addScore}
+            addMistake={addMistake}
           />
 
           <button

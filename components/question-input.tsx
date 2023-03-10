@@ -31,13 +31,15 @@ const QuestionInput = React.forwardRef(({
   answers,
   showResult,
   score,
-  addScore
+  addScore,
+  addMistake
 }: {
   placeholder: string,
   answers: string[],
   showResult: boolean,
   score: number,
-  addScore: (score: number) => void;
+  addScore: (score: number) => void,
+  addMistake: () => void
 }, ref: ForwardedRef<HTMLInputElement>) => {
   const [value, setValue] = useState("");
   const [className, setClassName] = useState("");
@@ -57,6 +59,7 @@ const QuestionInput = React.forwardRef(({
       addScore(score);
     } else {
       setClassName(styles.wrong);
+      addMistake();
     }
   }, [showResult]);
 
