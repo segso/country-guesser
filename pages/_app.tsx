@@ -1,6 +1,14 @@
 import {AppProps} from "next/app";
 import Head from "next/head";
 import "@/styles/global.css";
+import { Merriweather } from "@next/font/google";
+
+const merriweather = Merriweather({
+  weight: ['300'],
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--merriweather'
+});
 
 function App({ Component, pageProps }: AppProps) {
   return (

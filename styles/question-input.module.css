@@ -1,5 +1,5 @@
 .input {
-  font-family: 'Merriweather', serif;
+  font-family: var(--merriweather), serif;
   border: 0.1em solid;
   border-radius: 0.5em;
   padding-top: 0.5em;

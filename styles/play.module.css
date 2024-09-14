@@ -1,5 +1,5 @@
 .finish-text {
-  font-family: 'Merriweather', serif;
+  font-family: var(--merriweather), serif;
   font-size: 2em;
   text-align: center;
 }
@@ -13,7 +13,7 @@
 }
 
 .display > p {
-  font-family: 'Merriweather', serif;
+  font-family: var(--merriweather), serif;
   text-align: center;
 }
 
@@ -22,7 +22,7 @@
 }
 
 .form input {
-  font-family: 'Merriweather', serif;
+  font-family: var(--merriweather), serif;
   display: block;
   margin: 0.5em auto;
   width: 17em;
@@ -30,7 +30,7 @@
 }
 
 .send-button {
-  font-family: 'Merriweather', serif;
+  font-family: var(--merriweather), serif;
   display: block;
   margin: 0 auto;
   width: 17em;

@@ -1,6 +1,6 @@
 .title {
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: var(--merriweather), serif;
   font-size: 4em;
 }
 
@@ -10,7 +10,7 @@
   background-color: #51DB2E;
   cursor: pointer;
   text-decoration: none;
-  font-family: 'Merriweather', serif;
+  font-family: var(--merriweather), serif;
   font-size: 2em;
   margin: 0 auto;
   padding: 0.5em 2.5em;
