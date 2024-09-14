@@ -34,10 +34,13 @@ export default function Header({
           <img src="/country-guesser/icons/github.svg" alt="GitHub" className={styles.image} />
         </a>
         {home ? (
-          <a>{homeImage}</a>
+          <a href="/country-guesser" onClick={event => event.preventDefault()}>{homeImage}</a>
         ) : (
-          <a
-            onClick={() => setIsPopupVisible(true)}
+          <a href="/country-guesser"
+            onClick={event => {
+              event.preventDefault();
+              setIsPopupVisible(true);
+            }}
           >{homeImage}</a>
         )}
       </nav>
